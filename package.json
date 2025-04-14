@@ -31,15 +31,15 @@
     "vitest": "*"
   },
   "dependencies": {
-    "@quramy/jest-prisma-core": "^1.7.2"
+    "@quramy/jest-prisma-core": "^1.8.1"
   },
   "devDependencies": {
-    "@types/node": "^20.10.4",
+    "@types/node": "^20.17.30",
     "prettier": "^3.1.0",
     "semantic-release": "^22.0.10",
-    "typescript": "^5.3.3",
+    "typescript": "^5.8.3",
     "unbuild": "^2.0.0",
-    "vitest": "^1.0.2"
+    "vitest": "^3.1.1"
   },
   "release": {
     "branches": [
