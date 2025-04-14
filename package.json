@@ -23,7 +23,6 @@
   "license": "MIT",
   "scripts": {
     "build": "unbuild",
-    "prepack": "yarn build",
     "semantic-release": "semantic-release"
   },
   "peerDependencies": {
